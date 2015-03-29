@@ -27,7 +27,7 @@ This turns these two images:
 
 Into this palette image:
 
-![](palette.png)
+<img src="palette.png" width="400">
 
 TODO
 --------
