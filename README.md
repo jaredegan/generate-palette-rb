@@ -27,7 +27,7 @@ This turns these two images:
 
 Into this palette image:
 
-![](sample_imgs/palette.png)
+![](palette.png)
 
 TODO
 --------
