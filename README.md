@@ -27,7 +27,7 @@ This turns these two images:
 
 Into this palette image:
 
-<img src="palette.png" width="400">
+<img src="palette.png" width="400" style="image-rendering: pixelated;">
 
 TODO
 --------
